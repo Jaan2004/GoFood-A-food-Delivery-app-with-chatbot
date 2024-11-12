@@ -32,9 +32,9 @@ The purpose of this project is to  develop a A.I integrated food delivery app us
 
 ## Architecture-
 
-The food delivery app is built using the MERN stack. The app consists of several components, including the Home screen,My Orders screen, Cart screen, Login and Logout screen and Chatbot screen. 
+The food delivery app is built using the MERN stack. The app consists of several components, including the Home screen,My Orders screen, Payment Portal, Cart screen, Login and Logout screen and Chatbot screen. 
 
-The Home screen displays the list of food items, and includes a search bar and number of items to be ordered options.The Home screen displays the list of items in the menu, and allows the user to add items to their cart. The Cart screen displays the list of items in the user's cart, and allows the user to place an order. The Order screen displays the details of the user's order.The Admin screen displays the management interface for menus and orders.
+The Home screen displays the list of food items, and includes a search bar and number of items to be ordered options.The Home screen displays the list of items in the menu and a chatbot icon on Bottom-Right, and allows the user to add items to their cart. The Cart screen displays the list of items in the user's cart, and allows the user to Pay and place an order . The Order screen displays the details of the user's order.The Admin screen displays the management interface for menus and orders.
 
 ## Design-
 
